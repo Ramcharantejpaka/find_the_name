@@ -28,4 +28,4 @@ ramcharanpaka@Ramcharans-MacBook-Pro ~ % cd Desktop/projectgame
 ramcharanpaka@Ramcharans-MacBook-Pro projectgame % java Game
 ````
 * On `command promt` after choosing directory,
-    *type ``java Game`` to run the program.
+    * type ``java Game`` to run the program.
