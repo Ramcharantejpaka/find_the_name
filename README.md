@@ -4,9 +4,9 @@ You win if you find the name or character
 
 # About the files
 * " SAVE `.class` file and audio `.wav` files on `SAME DIRECTORY` "
-* It's a java .class file which can be executed on JVM
+* It's a java `.class` file which can be executed and run on `JVM`
 To run it follow the steps below :
-* Install JDK 
+* Install `JDK` 
   * To download JDK installer [click here](https://www.oracle.com/java/technologies/downloads/#jdk17-windows).
   
 * Open `command prompt` or `terminal`.
